@@ -66,3 +66,7 @@ Bütün kodları 1.ders adlı klasöre koydum kodları yazamazsanız indirebilir
 • Ekle butou TextBox'a yazılan şeyi comboBox'a ve listBox'a ekler 
 
 • Label Değiştir butonuna basınca TextBox'a yazılan şeyi label1'e yazdırır
+
+# Bir Sonraki Ders
+
+#### [Bir Sonraki Ders](https://github.com/yoskatr4/C-Sharp-Dersleri-3-label)
