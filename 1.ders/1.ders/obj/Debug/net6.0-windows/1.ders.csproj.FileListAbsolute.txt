@@ -1,0 +1,17 @@
+C:\Users\monster\source\repos\1.ders\1.ders\obj\Debug\net6.0-windows\1.ders.csproj.AssemblyReference.cache
+C:\Users\monster\source\repos\1.ders\1.ders\obj\Debug\net6.0-windows\_1.ders.Form1.resources
+C:\Users\monster\source\repos\1.ders\1.ders\obj\Debug\net6.0-windows\1.ders.csproj.GenerateResource.cache
+C:\Users\monster\source\repos\1.ders\1.ders\obj\Debug\net6.0-windows\1.ders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monster\source\repos\1.ders\1.ders\obj\Debug\net6.0-windows\1.ders.AssemblyInfoInputs.cache
+C:\Users\monster\source\repos\1.ders\1.ders\obj\Debug\net6.0-windows\1.ders.AssemblyInfo.cs
+C:\Users\monster\source\repos\1.ders\1.ders\obj\Debug\net6.0-windows\1.ders.csproj.CoreCompileInputs.cache
+C:\Users\monster\source\repos\1.ders\1.ders\bin\Debug\net6.0-windows\1.ders.exe
+C:\Users\monster\source\repos\1.ders\1.ders\bin\Debug\net6.0-windows\1.ders.deps.json
+C:\Users\monster\source\repos\1.ders\1.ders\bin\Debug\net6.0-windows\1.ders.runtimeconfig.json
+C:\Users\monster\source\repos\1.ders\1.ders\bin\Debug\net6.0-windows\1.ders.dll
+C:\Users\monster\source\repos\1.ders\1.ders\bin\Debug\net6.0-windows\1.ders.pdb
+C:\Users\monster\source\repos\1.ders\1.ders\obj\Debug\net6.0-windows\1.ders.dll
+C:\Users\monster\source\repos\1.ders\1.ders\obj\Debug\net6.0-windows\refint\1.ders.dll
+C:\Users\monster\source\repos\1.ders\1.ders\obj\Debug\net6.0-windows\1.ders.pdb
+C:\Users\monster\source\repos\1.ders\1.ders\obj\Debug\net6.0-windows\1.ders.genruntimeconfig.cache
+C:\Users\monster\source\repos\1.ders\1.ders\obj\Debug\net6.0-windows\ref\1.ders.dll
