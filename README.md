@@ -54,6 +54,9 @@ namespace _1.ders
 }
 </pre>
 
+### Sakın Endişelenme
+Bütün kodları 1.ders adlı klasöre koydum kodları yazamazsanız indirebilirsiniz :D
+
 ## İşlevi
 
 • Mesaj yaz butonuna basınca 'Ders 1 : GUI Tasarımı' diye yazdırıyor
